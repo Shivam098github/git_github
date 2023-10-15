@@ -4,3 +4,4 @@ another new line
 yet another line
 staging not done
 STAGING DONE
+f1 first commit
