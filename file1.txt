@@ -4,8 +4,8 @@ another new line
 yet another line
 staging not done
 STAGING DONE
-master f1 commit
-master f2 commit
-
-
+f1 first commit
+f1 second commit
+f1 third commit
+f1 4th commit
 
