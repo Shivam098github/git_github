@@ -5,4 +5,5 @@ yet another line
 staging not done
 STAGING DONE
 f1 first commit
-f2 second commit
+f1 second commit
+f1 third commit
